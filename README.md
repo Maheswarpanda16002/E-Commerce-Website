@@ -1,4 +1,5 @@
 # MY Shope E-Commerce-Website
+Live link: https://myshope53.netlify.app/
 Welcome to My Shop, an intuitive and user-friendly e-commerce website designed to provide a seamless shopping experience. This project focuses on delivering a clean and efficient front-end interface for users to browse and purchase products effortlessly.
 <br>
 <h2>Features</h2>
@@ -16,19 +17,18 @@ Welcome to My Shop, an intuitive and user-friendly e-commerce website designed t
 </ul>
 <h2>Installation</h2>
 <ol>
-  <li>Clone the repository: git clone https://github.com/yourusername/my-shop.git
+  <li>Clone the repository:<br> git clone https://github.com/yourusername/my-shop.git
 </li>
-  <li>Navigate to the project directory:  cd my-shop
+  <li>Navigate to the project directory: <br> cd my-shop
 </li>
   <li>Open index.html in your preferred web browser to view the website.</li>
 </ol>
-Contributions
-Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
+<h2>Contributions</h2>
+<p>Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.</p>
+<h2>License</h2>
+<p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
+<h2>Contact</h2>
+<p>For any questions or feedback, please contact mmaheswar397@gmail.com   .</p>
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-For any questions or feedback, please contact [your email address].
 
 Thank you for visiting My Shop! Enjoy your shopping experience.
