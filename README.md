@@ -1,6 +1,7 @@
 # MY Shope E-Commerce-Website
 Live link: https://myshope53.netlify.app/
-Welcome to My Shop, an intuitive and user-friendly e-commerce website designed to provide a seamless shopping experience. This project focuses on delivering a clean and efficient front-end interface for users to browse and purchase products effortlessly.
+<br>
+<p>Welcome to My Shop, an intuitive and user-friendly e-commerce website designed to provide a seamless shopping experience. This project focuses on delivering a clean and efficient front-end interface for users to browse and purchase products effortlessly.</p>p
 <br>
 <h2>Features</h2>
 <u>
